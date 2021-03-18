@@ -14,8 +14,6 @@
 .container{
     width:80%;
     margin: auto;
-    border: 2px solid black;
-    
 }
 /* /Utility class */
 
@@ -42,6 +40,7 @@
 
 .lorem_yoga{
     width: 50%;
+    height: 60px;
     border: 2px solid rgb(8, 43, 119);
    
 }
@@ -67,17 +66,32 @@
 }
 
 .sidebar{
-    width: 30%;
     height: 100%;
+    width: 20%;
     border: 2px solid rgb(255, 81, 12);
     float: left;
 
 }
 .contentmain{
-    width: 40%;
     height: 100%;
+    width: 60%;
     border: 2px solid rgb(106, 72, 230);
     float: left;
 
 }
 /* /Main class */
+
+/* Footer class */
+.footer_info{
+    width: 100%;
+    height: 80px;
+    border: 2px solid rgb(103, 126, 0);
+    padding-left: 45%;
+    padding-top: 20px;
+}
+.design{
+    width: 20%;
+    height:50%;
+    border: 2px solid cornflowerblue;
+}
+/* /Footer class */
