@@ -1,0 +1,21 @@
+/* Utility class */
+*{
+    box-sizing:border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.clearfix::after{
+    content: "";
+    clear:both;
+    display: table;
+}
+
+.container{
+    width:90%;
+    margin: auto;
+    border: 1px solid black;
+    height: 20px;
+}
+/* /Utility class */
+
