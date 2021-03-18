@@ -14,8 +14,33 @@
 .container{
     width:90%;
     margin: auto;
-    border: 1px solid black;
-    height: 20px;
+    border: 2px solid black;
+    height: 900px;
 }
 /* /Utility class */
 
+/* Header class */
+.logo{
+    background-color: cadetblue;
+    height: 100px;
+}
+
+.nav_link{
+    height: 60px;
+    border: 2px solid red;
+    padding: 15px 0px 5px 10px;
+}
+/* /Header class */
+
+/* Main class */
+.yoga_bg{
+    height: 400px;
+    border: 2px solid rgb(8, 43, 119);
+    border-radius: 15px;
+    padding: 250px 0px 0px 30px;
+}
+
+.lorem_yoga{
+    width: 50%;
+}
+/* /Main class */
