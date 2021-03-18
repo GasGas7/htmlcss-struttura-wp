@@ -12,10 +12,10 @@
 }
 
 .container{
-    width:90%;
+    width:80%;
     margin: auto;
     border: 2px solid black;
-    height: 900px;
+    
 }
 /* /Utility class */
 
@@ -42,5 +42,42 @@
 
 .lorem_yoga{
     width: 50%;
+    border: 2px solid rgb(8, 43, 119);
+   
+}
+
+.titlemain{
+    height: 100px;
+    width: 100%;
+    border: 2px solid rgb(6, 179, 29);
+    padding-top: 15px;
+
+}
+.leadership{
+    height:60px;
+    width: 30%;
+    border: 2px solid rgb(119, 8, 114);
+    padding-top: 20;
+}
+
+.column_main{
+    height: 500px;
+    width: 100%;
+    border: 2px solid rgb(9, 29, 97);
+}
+
+.sidebar{
+    width: 30%;
+    height: 100%;
+    border: 2px solid rgb(255, 81, 12);
+    float: left;
+
+}
+.contentmain{
+    width: 40%;
+    height: 100%;
+    border: 2px solid rgb(106, 72, 230);
+    float: left;
+
 }
 /* /Main class */
